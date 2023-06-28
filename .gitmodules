@@ -7,7 +7,7 @@
 
 [submodule "templates/STM32-base-F0-template"]
 	path = templates/STM32-base-F0-template
-	url = git@github.com:STM32-base/STM32-base-F0-template.git
+	url = git@github.com:KlochkovSA/STM32_remote_RGB_lamp.git
 [submodule "templates/STM32-base-F4-template"]
 	path = templates/STM32-base-F4-template
 	url = git@github.com:STM32-base/STM32-base-F4-template.git
