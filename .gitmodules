@@ -1,0 +1,13 @@
+[submodule "STM32-base"]
+	path = STM32-base
+	url = git@github.com:STM32-base/STM32-base.git
+[submodule "STM32-base-STM32Cube"]
+	path = STM32-base-STM32Cube
+	url = git@github.com:STM32-base/STM32-base-STM32Cube.git
+
+[submodule "templates/STM32-base-F0-template"]
+	path = templates/STM32-base-F0-template
+	url = git@github.com:STM32-base/STM32-base-F0-template.git
+[submodule "templates/STM32-base-F4-template"]
+	path = templates/STM32-base-F4-template
+	url = git@github.com:STM32-base/STM32-base-F4-template.git
